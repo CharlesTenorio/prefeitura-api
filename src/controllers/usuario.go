@@ -1,6 +1,10 @@
 package controllers
 
-func PegarUsuario() {
+func LocalizarUsuario() {
+
+}
+
+func ListarUsuario() {
 
 }
 
